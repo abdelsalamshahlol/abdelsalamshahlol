@@ -13,8 +13,7 @@
       </td>
       <td>
         <a href="https://www.linkedin.com/in/abdelsalam-shahlol/" target="_blank">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg
-' alt='LinkedIn' height='40'>
+          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>
         </a>
       </td>
       <td><a href="https://www.instagram.com/street_bike_abdul/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a></td>
@@ -23,7 +22,7 @@
       <td><a href="https://www.youtube.com/channel/UCNjnaQKBmYMEcoboMUSIzcw" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube" height="40"></a></td>
     </tr>
   </tbody>
-</table />
+</table>
 
 
 I'm **Abdelsalam** from Libya, and I do Information Systems and Web Development. I'm specialized in Front End Development using **Vue** and **Nuxt**.
